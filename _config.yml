@@ -2,7 +2,7 @@
 # 配置菜单导航的名称、路径和图标icon.
 menu:
   Index:
-    url: /
+    url: https://imjaireddy.github.io/ann/
     icon: fas fa-home
   Tags:
     url: /tags
@@ -126,7 +126,7 @@ indexbtn:
   enable: true
   name: Github
   icon: fab fa-github-alt
-  url: https://imjaireddy.github.io/ann/
+  url: https://github.com/blinkfox/hexo-theme-matery
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
