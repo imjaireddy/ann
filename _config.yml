@@ -2,7 +2,7 @@
 # 配置菜单导航的名称、路径和图标icon.
 menu:
   Index:
-    url: https://imjaireddy.github.io/ann/
+    url: /
     icon: fas fa-home
   Tags:
     url: /tags
@@ -126,7 +126,7 @@ indexbtn:
   enable: true
   name: Github
   icon: fab fa-github-alt
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://imjaireddy.github.io/ann
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
@@ -216,7 +216,7 @@ myProjects:
     hexo-theme-matery:
       icon: fas fa-file-alt
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: http://github.com/blinkfox/hexo-theme-matery
+      url: https://imjaireddy.github.io/ann
       desc: This is a Hexo blog theme with 'Material Design' and responsive design.
     Fenix:
         icon: fas fa-database
@@ -364,7 +364,7 @@ minivaline:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://imjaireddy.github.io/ann
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,
